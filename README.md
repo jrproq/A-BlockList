@@ -1,13 +1,12 @@
 # Random
-blocklist fot these apps
-works with<br>
+**The Blocklists contains:** Ads, Phishing, Malvertising, Malware, Spyware, etc... <br>
+Here is a list of apps for which you can use these blocklists.<br>
 **[AdAway](https://adaway.org/)**<br>
 **[personalDNS Filter](https://www.zenz-solutions.de/personaldnsfilter-wp/)**<br>
 **[uBlock Origin](https://ublockorigin.com/)**<br>
 **[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)**<br>
 <br>
 Big Credits to **[sjhgvr](https://github.com/sjhgvr)**<br>
-<br>
 <br>
 <br>
 **Blocklists are a combination of the listed sources.<br>**
