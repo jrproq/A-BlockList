@@ -8,7 +8,6 @@ Here is a list of apps for which you can use these blocklists.<br>
 <br>
 Big Credits to **[sjhgvr](https://github.com/sjhgvr)**<br>
 <br>
-<br>
 **Blocklists are a combination of the listed sources.<br>**
 <!DOCTYPE html>
 <html lang="en">
